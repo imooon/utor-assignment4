@@ -19,7 +19,9 @@
 #### 4. When all questions are answered, timer goes to 0. 
 #### 5. After the game, I can save my initials and score.
 
-## URL of the GitHub repository
+## URL of the GitHub repository 
+
+https://github.com/imooon/utor-assignment4
 
 
 ## URL of the deployed application
