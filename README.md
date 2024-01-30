@@ -23,8 +23,9 @@
 
 https://github.com/imooon/utor-assignment4
 
-
 ## URL of the deployed application
+
+https://imooon.github.io/utor-assignment4/
 
 ## License 
 
